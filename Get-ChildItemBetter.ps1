@@ -1,4 +1,4 @@
-function Get-ChildItemModern {
+function Get-ChildItemBetter {
   Begin {
     function _Format-DateTime {
       Param (
@@ -113,4 +113,4 @@ function Get-ChildItemModern {
   }
 }
 
-New-Alias ll Get-ChildItemModern
+New-Alias ll Get-ChildItemBetter
