@@ -6,4 +6,6 @@ Powershell is pretty good, but very ugly boy, so i will post here my scripts to 
 
 ## Better ls command
 
+Make sure, that u are using NerdFonts(for icons)
+
 ![2](https://github.com/koteelok/BetterShell/blob/main/images/WindowsTerminal_XeF85HBx3k.png)
